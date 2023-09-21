@@ -1,0 +1,8 @@
+_____Detaliile rezervarii____
+_______________________________
+ Numele Clientului: 
+Prenumele Clientului: 
+Serviciile dorite: 
+Pretul: 0
+Salonul rezervat este : 
+Costul serviciilor este :0
