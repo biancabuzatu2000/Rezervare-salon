@@ -77,28 +77,28 @@
                 if(alegere4==1)
                 {
                     pret=40;
-                    cout<<"Ai ale sa faci rezervare la salonul nostru pentru tuns par , la ora 15:30-16:20";
+                    cout<<"Ai ales sa faci rezervare la salonul nostru pentru tuns par , la ora 15:30-16:20";
                     cout<<"Rezervarea a fost finalizata"<<endl;
                     cout<< "Poti sa te reintorci la meniu pentru a vedea rezervarea finala"<<endl;
                 }
                 else if(alegere4==2)
                 {
                     pret=30;
-                    cout<<"Ai ale sa faci rezervare la salonul nostru pentru spalat par , la ora 15:00-15:25";
+                    cout<<"Ai ales sa faci rezervare la salonul nostru pentru spalat par , la ora 15:00-15:25";
                     cout<<"Rezervarea a fost finalizata"<<endl;
                     cout<< "Poti sa te reintorci la meniu pentru a vedea rezervarea finala"<<endl;
                 }
                 else if(alegere4==3)
                 {
                     pret=50;
-                    cout<<"Ai ale sa faci rezervare la salonul nostru pentru coafat par , la ora 16:30-17:10";
+                    cout<<"Ai ales sa faci rezervare la salonul nostru pentru coafat par , la ora 16:30-17:10";
                     cout<<"Rezervarea a fost finalizata"<<endl;
                     cout<< "Poti sa te reintorci la meniu pentru a vedea rezervarea finala"<<endl;
                 }
                 else if(alegere4==4)
                 {
                     pret=150;
-                    cout<<"Ai ale sa faci rezervare la salonul nostru pentru vopsit par , la ora 17:20-19:20";
+                    cout<<"Ai ales sa faci rezervare la salonul nostru pentru vopsit par , la ora 17:20-19:20";
                     cout<<"Rezervarea a fost finalizata"<<endl;
                     cout<< "Poti sa te reintorci la meniu pentru a vedea rezervarea finala"<<endl;
                 }
@@ -134,28 +134,28 @@
             if(alegere4==1)
             {
                 pret=50;
-                cout<<"Ai ale sa faci rezervare la salonul nostru pentru tuns par , la ora 15:20-16:10";
+                cout<<"Ai ales sa faci rezervare la salonul nostru pentru tuns par , la ora 15:20-16:10";
                 cout<<"Rezervarea a fost finalizata"<<endl;
                 cout<< "Poti sa te reintorci la meniu pentru a vedea rezervarea finala"<<endl;
             }
             else if(alegere4==2)
             {
                 pret=40;
-                cout<<"Ai ale sa faci rezervare la salonul nostru pentru spalat par , la ora 15:00-15:15";
+                cout<<"Ai ales sa faci rezervare la salonul nostru pentru spalat par , la ora 15:00-15:15";
                 cout<<"Rezervarea a fost finalizata"<<endl;
                 cout<< "Poti sa te reintorci la meniu pentru a vedea rezervarea finala"<<endl;
             }
             else if(alegere4==3)
             {
                 pret=60;
-                cout<<"Ai ale sa faci rezervare la salonul nostru pentru coafat par , la ora 16:20-17:00";
+                cout<<"Ai ales sa faci rezervare la salonul nostru pentru coafat par , la ora 16:20-17:00";
                 cout<<"Rezervarea a fost finalizata"<<endl;
                 cout<< "Poti sa te reintorci la meniu pentru a vedea rezervarea finala"<<endl;
             }
             else if(alegere4==4)
             {
                 pret=200;
-                cout<<"Ai ale sa faci rezervare la salonul nostru pentru vopsit par , la ora 17:20-19:20";
+                cout<<"Ai ales sa faci rezervare la salonul nostru pentru vopsit par , la ora 17:20-19:20";
                 cout<<"Rezervarea a fost finalizata"<<endl;
                 cout<< "Poti sa te reintorci la meniu pentru a vedea rezervarea finala"<<endl;
             }
@@ -188,28 +188,28 @@
             if(alegere4==1)
             {
                 pret=30;
-                cout<<"Ai ale sa faci rezervare la salonul nostru pentru tuns par , la ora 15:30-16:20";
+                cout<<"Ai ales sa faci rezervare la salonul nostru pentru tuns par , la ora 15:30-16:20";
                 cout<<"Rezervarea a fost finalizata"<<endl;
                 cout<< "Poti sa te reintorci la meniu pentru a vedea rezervarea finala"<<endl;
             }
             else if(alegere4==2)
             {
                 pret=20;
-                cout<<"Ai ale sa faci rezervare la salonul nostru pentru spalat par , la ora 15:00-15:25";
+                cout<<"Ai ales sa faci rezervare la salonul nostru pentru spalat par , la ora 15:00-15:25";
                 cout<<"Rezervarea a fost finalizata"<<endl;
                 cout<< "Poti sa te reintorci la meniu pentru a vedea rezervarea finala"<<endl;
             }
             else if(alegere4==3)
             {
                 pret=40;
-                cout<<"Ai ale sa faci rezervare la salonul nostru pentru coafat par , la ora 16:30-17:10";
+                cout<<"Ai ales sa faci rezervare la salonul nostru pentru coafat par , la ora 16:30-17:10";
                 cout<<"Rezervarea a fost finalizata"<<endl;
                 cout<< "Poti sa te reintorci la meniu pentru a vedea rezervarea finala"<<endl;
             }
             else if(alegere4==4)
             {
                 pret=100;
-                cout<<"Ai ale sa faci rezervare la salonul nostru pentru vopsit par , la ora 17:20-19:20";
+                cout<<"Ai ales sa faci rezervare la salonul nostru pentru vopsit par , la ora 17:20-19:20";
                 cout<<"Rezervarea a fost finalizata"<<endl;
                 cout<< "Poti sa te reintorci la meniu pentru a vedea rezervarea finala"<<endl;
             }
@@ -243,28 +243,28 @@
             if(alegere4==1)
             {
                 pret=70;
-                cout<<"Ai ale sa faci rezervare la salonul nostru pentru tuns par , la ora 15:30-16:20";
+                cout<<"Ai ales sa faci rezervare la salonul nostru pentru tuns par , la ora 15:30-16:20";
                 cout<<"Rezervarea a fost finalizata"<<endl;
                 cout<< "Poti sa te reintorci la meniu pentru a vedea rezervarea finala"<<endl;
             }
             else if(alegere4==2)
             {
                 pret=60;
-                cout<<"Ai ale sa faci rezervare la salonul nostru pentru spalat par , la ora 15:00-15:25";
+                cout<<"Ai ales sa faci rezervare la salonul nostru pentru spalat par , la ora 15:00-15:25";
                 cout<<"Rezervarea a fost finalizata"<<endl;
                 cout<< "Poti sa te reintorci la meniu pentru a vedea rezervarea finala"<<endl;
             }
             else if(alegere4==3)
             {
                 pret=20;
-                cout<<"Ai ale sa faci rezervare la salonul nostru pentru coafat par , la ora 16:30-17:10";
+                cout<<"Ai ales sa faci rezervare la salonul nostru pentru coafat par , la ora 16:30-17:10";
                 cout<<"Rezervarea a fost finalizata"<<endl;
                 cout<< "Poti sa te reintorci la meniu pentru a vedea rezervarea finala"<<endl;
             }
             else if(alegere4==4)
             {
                 pret=250;
-                cout<<"Ai ale sa faci rezervare la salonul nostru pentru vopsit par , la ora 17:20-19:20";
+                cout<<"Ai ales sa faci rezervare la salonul nostru pentru vopsit par , la ora 17:20-19:20";
                 cout<<"Rezervarea a fost finalizata"<<endl;
                 cout<< "Poti sa te reintorci la meniu pentru a vedea rezervarea finala"<<endl;
             }
@@ -299,28 +299,28 @@
             if(alegere4==1)
             {
                 pret=80;
-                cout<<"Ai ale sa faci rezervare la salonul nostru pentru tuns par , la ora 15:30-16:20";
+                cout<<"Ai ales sa faci rezervare la salonul nostru pentru tuns par , la ora 15:30-16:20";
                 cout<<"Rezervarea a fost finalizata"<<endl;
                 cout<< "Poti sa te reintorci la meniu pentru a vedea rezervarea finala"<<endl;
             }
             else if(alegere4==2)
             {
                 pret=50;
-                cout<<"Ai ale sa faci rezervare la salonul nostru pentru spalat par , la ora 15:00-15:25";
+                cout<<"Ai ales sa faci rezervare la salonul nostru pentru spalat par , la ora 15:00-15:25";
                 cout<<"Rezervarea a fost finalizata"<<endl;
                 cout<< "Poti sa te reintorci la meniu pentru a vedea rezervarea finala"<<endl;
             }
             else if(alegere4==3)
             {
                 pret=60;
-                cout<<"Ai ale sa faci rezervare la salonul nostru pentru coafat par , la ora 16:30-17:10";
+                cout<<"Ai ales sa faci rezervare la salonul nostru pentru coafat par , la ora 16:30-17:10";
                 cout<<"Rezervarea a fost finalizata"<<endl;
                 cout<< "Poti sa te reintorci la meniu pentru a vedea rezervarea finala"<<endl;
             }
             else if(alegere4==4)
             {
                 pret=350;
-                cout<<"Ai ale sa faci rezervare la salonul nostru pentru vopsit par , la ora 17:20-19:20";
+                cout<<"Ai ales sa faci rezervare la salonul nostru pentru vopsit par , la ora 17:20-19:20";
                 cout<<"Rezervarea a fost finalizata"<<endl;
                 cout<< "Poti sa te reintorci la meniu pentru a vedea rezervarea finala"<<endl;
             }
@@ -353,28 +353,28 @@
             if(alegere4==1)
             {
                 pret=100;
-                cout<<"Ai ale sa faci rezervare la salonul nostru pentru tuns par , la ora 15:30-16:20";
+                cout<<"Ai ales sa faci rezervare la salonul nostru pentru tuns par , la ora 15:30-16:20";
                 cout<<"Rezervarea a fost finalizata"<<endl;
                 cout<< "Poti sa te reintorci la meniu pentru a vedea rezervarea finala"<<endl;
             }
             else if(alegere4==2)
             {
                 pret=80;
-                cout<<"Ai ale sa faci rezervare la salonul nostru pentru spalat par , la ora 15:00-15:25";
+                cout<<"Ai ales sa faci rezervare la salonul nostru pentru spalat par , la ora 15:00-15:25";
                 cout<<"Rezervarea a fost finalizata"<<endl;
                 cout<< "Poti sa te reintorci la meniu pentru a vedea rezervarea finala"<<endl;
             }
             else if(alegere4==3)
             {
                 pret=60;
-                cout<<"Ai ale sa faci rezervare la salonul nostru pentru coafat par , la ora 16:30-17:10";
+                cout<<"Ai ales sa faci rezervare la salonul nostru pentru coafat par , la ora 16:30-17:10";
                 cout<<"Rezervarea a fost finalizata"<<endl;
                 cout<< "Poti sa te reintorci la meniu pentru a vedea rezervarea finala"<<endl;
             }
             else if(alegere4==4)
             {
                 pret=550;
-                cout<<"Ai ale sa faci rezervare la salonul nostru pentru vopsit par , la ora 17:20-19:20";
+                cout<<"Ai ales sa faci rezervare la salonul nostru pentru vopsit par , la ora 17:20-19:20";
                 cout<<"Rezervarea a fost finalizata"<<endl;
                 cout<< "Poti sa te reintorci la meniu pentru a vedea rezervarea finala"<<endl;
             }
