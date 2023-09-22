@@ -498,7 +498,7 @@
 
     switch(alegere1)
     {
-        case1:
+        case 1:
             {
                 cout<<"______Clienti_____\n"<<endl;
                 d.information();
